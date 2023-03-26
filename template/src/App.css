@@ -1,6 +1,9 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  
 }
-
-
+.labe-logo{
+  width: 125px;
+  height: 105px;
+}

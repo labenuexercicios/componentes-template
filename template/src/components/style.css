@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+}
+.App{
+    min-height: 22vh;
+}
+.header{
+    background-color: black;
+}
+.garagem{
+    height: 350px;
+    width:1456px;
+    display: block;
+}
+.carros{
+    height: 100%;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    justify-content: center;
+     
+}
+.labe-logo{
+    justify-content:center;
+    width:140px;
+    height:145px;
+}
+.redes{
+    background-color: black;
+}
+.links{
+    display: flex;
+    gap:12px;
+    text-decoration:none;
+    color:antiquewhite;
+
+}
+.footer{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+}
+ 
