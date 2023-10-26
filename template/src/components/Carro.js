@@ -1,13 +1,13 @@
 import React from "react";
 
-export default function Carro (){
+export default function Carro ( {carro}){
     return(
         <>
-        <h2> Carro</h2>
+        <h2> {carro.modelo}</h2>
             <ul>
-                <li> Modelo: Fusca</li>
-                <li> Flex: não</li>
-                <li> Cor: Azul</li>
+                <li> Cor: {carro.cor}</li>
+                <li> Flex: {carro.flex}</li>
+                <li> Ano: {carro.ano}</li>
             </ul>
         </>
     )

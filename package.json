@@ -1,0 +1,12 @@
+{
+  "name": "componentes-template",
+  "version": "1.0.0",
+  "description": "Utilize o conteúdo da pasta `template` para executar o exercício de fixação. Rode `npm install` para executar a instalação do React antes de tentar rodar o projeto com `npm run start`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
